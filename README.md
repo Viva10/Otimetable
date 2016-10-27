@@ -1,0 +1,2 @@
+# Otimetable
+Timetable generator application
